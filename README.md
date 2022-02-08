@@ -1,4 +1,7 @@
-### Hi there 👋sdf
+### Hi there.
+### This is Alwyn Tcha's Intro to Web Development site.
+
+### Assignment 1(https://alwyntcha.github.io/Assignment-1/)
 
 <!--
 **Alwyntcha/alwyntcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
