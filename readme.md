@@ -26,7 +26,7 @@
             <br>
             <br>   
             <div style="text-align : left;"></divstyle>>
-                <a href="https://alwyntcha.github.io/Ways-of-Seeing/" style="font-size:20px;"> Ways of Seeing </a>
+                <a href="https://alwyntcha.github.io/Ways-of-Seeing/" style="font-size:20px;"> Ways of Seeing: Response </a>
             </div>
             <br>
             <br>
@@ -42,6 +42,26 @@
             <br>
             <div style="text-align : left;"></divstyle>>
                 <a href="https://alwyntcha.github.io/BookCover/" style="font-size:20px;"> Book Cover </a>
+            </div>
+            <br>
+            <br>
+            <div style="text-align : left;"></divstyle>>
+                <a href="https://alwyntcha.github.io/mediummessage/" style="font-size:20px;"> Button </a>
+            </div>
+            <br>
+            <br>
+            <div style="text-align : left;"></divstyle>>
+                <a href="https://alwyntcha.github.io/TheMediumistheMessage/" style="font-size:20px;"> The Medium is the Message: Response </a>
+            </div>
+            <br>
+            <br>
+            <div style="text-align : left;"></divstyle>>
+                <a href="https://xieshangyu.github.io/week13/index.html" style="font-size:20px;"> JQ Pair Programming </a>
+            </div>
+            <br>
+            <br>
+            <div style="text-align : left;"></divstyle>>
+                <a href="https://docs.google.com/presentation/d/1L-b-XJZokwtdF3xnWtOJB4TjyA6M1-H9/edit#slide=id.p1" style="font-size:20px;"> Final Project Proposal </a>
             </div>
 
         </div>
